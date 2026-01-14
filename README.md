@@ -29,4 +29,4 @@
 📍 **Compartilho minha evolução na área de tecnologia e QA no LinkedIn**  
 Vem trocar ideia, aprendizado e visão de futuro ⬇️  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-mendes-silva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-ms/)
